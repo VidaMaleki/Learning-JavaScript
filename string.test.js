@@ -1,8 +1,8 @@
-const toUpperCase = require('./string')
+const capitalizeName = require('./string')
 
 //This is a uppercase example
-test('toUpperCase sepanta to equal SEPANTA', () => {
-    expect(toUpperCase(sepanta)).toBe('SEPANTA');
+test('toUpperCase sepanta to equal Sepanta', () => {
+    expect(capitalizeName('sepanta')).toBe('Sepanta');
 });
 
 
