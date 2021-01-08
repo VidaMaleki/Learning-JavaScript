@@ -1,6 +1,5 @@
-const sunday = require('./sunday');
+const mul = require('./sunday');
 
-test('multiply 1 * 2 to equal 2', () => {
+test('multiplying 1 * 2 to equals 2', () => {
     expect(mul(1, 2)).toBe(2);
-
 });
