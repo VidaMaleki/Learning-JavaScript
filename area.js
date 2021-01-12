@@ -1,5 +1,15 @@
-const rectangleArea = (width, height ) => width * height;
-//const triangleArea = (base, height) => (base * height) /2
-//const area = (base, height) => triangleArea(base, height) * 0.5;
-const squareArea = (a) => a * a
-module.exports = { rectangleArea, squareArea }
+//calculating rectangle area
+function rectangleArea(width, height) {
+    return width * height;
+};
+
+//calculating triangle area 
+function triangleArea(base, height) {
+    return base * height / 2;
+};
+//calculating square area 
+function squareArea(a) {
+    return a * a;
+};
+
+module.exports = { rectangleArea, squareArea, triangleArea }
