@@ -1,11 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1611457303057" clover="3.2.0">
-  <project timestamp="1611457303057" name="All files">
-    <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="2" coveredelements="2" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
-    <file name="loop.js" path="C:\Users\vida\Desktop\javascript\loop.js">
-      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+<coverage generated="1625037928491" clover="3.2.0">
+  <project timestamp="1625037928492" name="All files">
+    <metrics statements="39" coveredstatements="39" conditionals="0" coveredconditionals="0" methods="17" coveredmethods="17" elements="56" coveredelements="56" complexity="0" loc="39" ncloc="39" packages="1" files="8" classes="8"/>
+    <file name="Array.js" path="C:\Users\vidab\OneDrive\Desktop\JavaScript\Learning-JavaSript\Array.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+    </file>
+    <file name="area.js" path="C:\Users\vidab\OneDrive\Desktop\JavaScript\Learning-JavaSript\area.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+    </file>
+    <file name="loop.js" path="C:\Users\vidab\OneDrive\Desktop\JavaScript\Learning-JavaSript\loop.js">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="6" type="stmt"/>
+      <line num="17" count="6" type="stmt"/>
+      <line num="18" count="36" type="stmt"/>
+      <line num="20" count="6" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+    </file>
+    <file name="number.js" path="C:\Users\vidab\OneDrive\Desktop\JavaScript\Learning-JavaSript\number.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
+    <file name="scope.js" path="C:\Users\vidab\OneDrive\Desktop\JavaScript\Learning-JavaSript\scope.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+    </file>
+    <file name="string.js" path="C:\Users\vidab\OneDrive\Desktop\JavaScript\Learning-JavaSript\string.js">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
       <line num="11" count="1" type="stmt"/>
       <line num="14" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+    </file>
+    <file name="sum.js" path="C:\Users\vidab\OneDrive\Desktop\JavaScript\Learning-JavaSript\sum.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="sunday.js" path="C:\Users\vidab\OneDrive\Desktop\JavaScript\Learning-JavaSript\sunday.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
