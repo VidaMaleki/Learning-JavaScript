@@ -27,5 +27,6 @@ var runningSum = function(nums) {
     }
     return nums
 };
-//What did I learn?
-//I learned how to add each elements of array and make new array
+/*What did I learn?
+I learned how to add each elements of array,
+and make new array without storying them in empety array */
