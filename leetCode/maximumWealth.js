@@ -35,10 +35,6 @@ var maximumWealth = function(accounts) {
     return Math.max(...sumOfEachAccount)
 };
 /*What did I learn?
-I learned to work with nested methods
-I learned working with nested loop and finding each nested array's total 
+I learned to work with nested methods, and finding each nested array's total 
 working with Math.max(), also I learned about Spread Operators (...array)
-.map() let you apply method for each elements(customer1arreay & customer2array)
-.reduce() finds sum for each customer array
-at the end I used Math.max() for finding max of accounts
  */
