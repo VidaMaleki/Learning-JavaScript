@@ -22,5 +22,5 @@ var duplicateZeros = function(arr) {
     }
 };
 /* What did I learn?
-I learned how to repeat and element in the array with fixed capacity
+I learned how to repeat element in the array with fixed capacity
 */

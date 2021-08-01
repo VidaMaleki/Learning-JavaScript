@@ -49,3 +49,6 @@ var removeElement = function(nums, val) {
     }
     return nums.length;
 };
+/*What did I learn?
+I learned to use i-- for reducing index and checking for more elements to remove
+*/

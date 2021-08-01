@@ -45,5 +45,4 @@ var removeDuplicates = function(nums) {
 };
 /* What did I learn?
 I learned how to remove duplicate by using splice()
-
- */
+*/

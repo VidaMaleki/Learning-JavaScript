@@ -34,5 +34,5 @@ var numIdenticalPairs = function(nums) {
     return goodPairs;
 };
 /* What did I learn/
- I learned how to find pair of numbers and count them
+ I learned how to find pair of numbers by using nested loop and using goodPairs++ to count them.
 */

@@ -37,3 +37,7 @@ var merge = function(nums1, m, nums2, n) {
     nums1.push(...nums2.slice(0, n));
     return nums1.sort((a, b) => a - b);
 };
+/*What did I learn?
+I learned to use slice() to take elements from an  array and save them by splice() into another array 
+and then sort them by sort((a,b) => a - b)
+*/

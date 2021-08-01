@@ -33,6 +33,10 @@ var replaceElements = function(arr) {
     arr.push(-1);
     return arr;
 };
+/*What did I learn?
+I learned to use reverse loop for replace element with next element.
+using shift() for removing elemnt from beginning & using push(-1) to add -1 at the end of array.*/
+
 //second way
 var replaceElements = function(arr) {
     return arr.map((x, i) =>

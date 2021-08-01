@@ -37,5 +37,5 @@ var checkIfExist = function(arr) {
     return false;
 };
 /* What did I learn?
-I learned to search for element and return Boolean by using nested loop
+I learned to search for element and return Boolean by using nested loop.
  */
